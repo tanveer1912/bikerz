@@ -1,0 +1,31 @@
+:root {
+    --primary-color: #E76F51;
+    --secondary-color: #264653;
+}
+
+.header {
+    background-color: var(--secondary-color);
+
+}
+
+.banner-container {
+    height: 75vh;
+}
+
+.button {
+    background-color: var(--primary-color);
+
+}
+
+.client,
+.question {
+    color: var(--primary-color);
+}
+
+.rating img {
+    width: 20px;
+}
+
+.footer-height {
+    height: 50vh;
+}
